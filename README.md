@@ -3,17 +3,17 @@
 
 This repository shows my solution to the Garmin Challenge 2021 used as a techinical challenge for thier job applicaiton. The challenge instructions were as follows:
 
-"
-During a hackathon at Garmin Stellenbosch, you and your teammates are experimenting with sonic sensors for
-athletic events like shot-put and javelin.You've managed to put together a system that can transmit a
-sound signal at the projectile being thrown, and record the return signal that reflects off it.
+> "
+> During a hackathon at Garmin Stellenbosch, you and your teammates are experimenting with sonic sensors for
+> athletic events like shot-put and javelin.You've managed to put together a system that can transmit a
+> sound signal at the projectile being thrown, and record the return signal that reflects off it.
 
-Attached are the transmitted signal that is used for all projectiles, and the received signals for a shot-put
-and a javelin throw. Can you calculate the speed at which each projectile was thrown?
+> Attached are the transmitted signal that is used for all projectiles, and the received signals for a shot-put
+> and a javelin throw. Can you calculate the speed at which each projectile was thrown?
 
-BONUS: Can you estimate how far the sonic sensor was off to the side of the thrower in each case (see
-attached diagram)?
-"
+> BONUS: Can you estimate how far the sonic sensor was off to the side of the thrower in each case (see
+> attached diagram)?
+> "
 
 It can be assumed that the sonic sensor is placed perpendicular to the thrower at some unkown distance to the thrower.
 
